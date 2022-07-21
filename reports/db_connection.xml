@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataTools.ServerProfiles version="1.0">
+   <profile autoconnect="No" desc="DB Connection" id="484afd41-2661-11ec-9a63-877b4146ad93" name="DB Connection" providerID="org.eclipse.birt.report.data.oda.jdbc">
+      <baseproperties>
+         <property name="odaUser" value="KHANAS_PROD" />
+         <property name="metadataBidiFormatStr" value="ILYNN" />
+         <property name="odaDriverClass" value="oracle.jdbc.driver.OracleDriver" />
+         <property name="odaJndiName" value="KHANAS_PROD" />
+         <property name="odaPassword" value="Asl1234" />
+         <property name="disabledMetadataBidiFormatStr" value="" />
+         <property name="contentBidiFormatStr" value="ILYNN" />
+         <property name="odaURL" value="jdbc:oracle:thin:@62.171.179.61:1521:orcl" />
+         <property name="disabledContentBidiFormatStr" value="" />
+      </baseproperties>
+   </profile>
+</DataTools.ServerProfiles>
